@@ -1,21 +1,4 @@
-h1{
- color: blue;
- font-style: italic;
-}
-.imageclass{
-  width: 100%;
-  height: 400px;
-}
-h2{
-  color: rgb(108, 108, 179);
-}
-.Achievment{
-      font-family: 'Courier New', Courier, monospace;
-}
-  table, th, td {
-    border: 1px solid black;
-  }
-  .gallery {
+.gallery {
     padding: 40px;
     text-align: center;
   }

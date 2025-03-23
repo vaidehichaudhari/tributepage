@@ -1,11 +1,12 @@
 import React from 'react'
-
-function HeaderRS() {
+import './Header.css'
+const Header = () => {
   return (
-    <div>
-      <h1>ROHIT SHARMA</h1>
-    </div>
+    <header className="header">
+    <h1 className="title">Tribute to Rohit Sharma</h1>
+    <p className="subtitle">The rising star of Indian cricket</p>
+  </header>
   )
 }
 
-export default HeaderRS
+export default Header
